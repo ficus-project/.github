@@ -1,3 +1,6 @@
+# Ficus
+
+*Work in progress*  
 
 ### Project Architecture
 
